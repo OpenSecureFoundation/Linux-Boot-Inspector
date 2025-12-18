@@ -13,6 +13,6 @@
 
 # Fonctionnalités attendues
 Développer un outil avec interface graphique qui visualise de façon détaillée chaque phase du boot.
-<img width="1028" height="271" alt="image" src="https://github.com/user-attachments/assets/341c80d7-4b69-4a6d-a041-9d66080f0539" />
+
 
 # NB: README à mettre à jour progressivement par l'équipe.
