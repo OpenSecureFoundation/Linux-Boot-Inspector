@@ -1,4 +1,4 @@
-Conception et mise en œuvre de Linux Boot Inspector, un outil d’analyse du démarrage d’un distribution Linux: cas de Manjaro
+# Conception et mise en œuvre de Linux Boot Inspector, un outil d’analyse du démarrage d’un distribution Linux: cas de Manjaro
 
 # Objectifs:
 
